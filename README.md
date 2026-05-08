@@ -1,6 +1,6 @@
 # 🐍 Python Fundamentals
 
-Repositório dedicado aos meus estudos de Python com base no livro **"Introdução à Programação com Python"**.
+Repositório dedicado aos meus estudos de Python com base no livro **"Introdução à Programação com Python" do autor "Nilo Ney Coutinho Menezes"**.
 Aqui estou registrando minha evolução, praticando conceitos e construindo uma base sólida para atuar na área de dados.
 
 ---
