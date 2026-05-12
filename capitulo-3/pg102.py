@@ -27,26 +27,3 @@ len(a)
 
 # 
 
-# Concatenação
-# Os conteúdos de variáveis string podem ser somados, ou melhor, concatenados. 
-# Para concatenar duas strings, utilizamos o operador de adição(+).
-# Assim "AC" + "C" é igual a "ABC". Um caso especial de concatenação é a repetição de uma string várias vezes.
-# Para isso, utilizamos o operador de mutiplicação(*): "A" * 3 é igual a "AAA".
-
-# Exemplos:
-s = "ABC"
-
-# 
-
-s + "C"
-# saida: "ABCC" - foi concatenado o C junto a varíavel 's'.
-
-# 
-
-s + "D" * 4
-# saida: 'ABCDDDD' - foi adicionado 4 "D" na variavel "s".
-
-# 
-
-# Esta forma de concatenação só pode ser usada com strings.
-
